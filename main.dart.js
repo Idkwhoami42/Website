@@ -51085,7 +51085,7 @@ s=p.h(0,r)
 s.toString
 Z.pe(new F.OG(new L.OH("Exo",r),s))
 s=t.fQ
-return new M.td(T.a2U(new T.xN(C.T,C.fa,C.fb,C.ey,q,C.fK,q,H.c([new R.ls(42,q),L.ajp("Neel Lodha",o.RH("Exo_"+H.b(r),H.c(["Exo"],t.s))),new T.BT(C.L,C.fa,C.fb,C.ey,q,C.fK,q,H.c([new R.ls(4,q),this.Co("assets/githubicon.svg","https://github.com/Glitched15"),new T.l0(C.i0,G.a93("discordicon.svg",C.j,42),q),this.Co("assets/magicicon.svg","https://youtu.be/dQw4w9WgXcQ"),new R.ls(4,q)],s),q),new R.ls(69,q)],s),q),q,q),new P.i(4279769112),q)}}
+return new M.td(T.a2U(new T.xN(C.T,C.fa,C.fb,C.ey,q,C.fK,q,H.c([new R.ls(42,q),L.ajp("Neel Lodha",o.RH("Exo_"+H.b(r),H.c(["Exo"],t.s))),new T.BT(C.L,C.fa,C.fb,C.ey,q,C.fK,q,H.c([new R.ls(4,q),this.Co("assets/githubicon.svg","https://github.com/Glitched15"),new T.l0(C.i0,G.a93("assets/discordicon.svg",C.j,42),q),this.Co("assets/magicicon.svg","https://youtu.be/dQw4w9WgXcQ"),new R.ls(4,q)],s),q),new R.ls(69,q)],s),q),q,q),new P.i(4279769112),q)}}
 F.Zp.prototype={
 $0:function(){var s=0,r=P.a1(t.P),q=this
 var $async$$0=P.W(function(a,b){if(a===1)return P.Z(b,r)
